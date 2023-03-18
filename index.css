@@ -1,0 +1,161 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.first-section-landingpage{
+    background-color: #c7ecf4;
+    padding: 30px;
+}
+.first-section-landingpage-span{
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(105, 105, 105);
+}
+strong{
+  color: black;
+}
+span{
+    font-family: monospace;
+    font-size: 13px;
+    color: rgb(119, 120, 120);
+}
+.first-section-landingpage-content-heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.first-section-landingpage-content-para{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: rgb(51, 51, 51);
+    padding: 10px;
+}
+.first-section-landingpage-content{
+    padding: 20px;
+    padding-top: 155px;
+
+}
+.first-section-landingpage-img{
+    width: 100%;
+    height: 100%;
+}
+.first-section-landingpage-img1{
+    width: 100%;
+    height: 100%;
+    padding:10px;
+}
+.first-section-landingpage-img2{
+    width: 100%;
+    height: 100%;
+    padding:10px;
+    padding-top:20px ;
+}
+.first-section-landingpage-img3{
+    width: 100%;
+    height: 100%;
+    padding:10px;
+    padding-top: 30px;
+}
+.first-section-landingpage-img4{
+    width: 100%;
+    height: 100%;
+    padding:10px;
+    padding-top: 18px;
+}
+.first-section-landingpage-content-btn{
+    background-color: rgb(26, 233, 248);
+    color: white;
+    font-family: monospace;
+    padding: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.first-section-landingpage-content-btn:hover{
+    box-shadow: 0 1.4rem 8rem rgba(0, 0, 0, 0.2);
+    font-size: 20px;
+    transition: 0.3s;
+}
+.first-section-landingpage-content-heading:hover{
+    color: rgb(42, 198, 255);
+    transition: .5s;
+}
+.container{
+    padding-top: 20px;
+}
+.second-section-landingpage{
+    padding: 10px;
+    padding-top: 100px;
+}
+.second-section-landingpage-part1{
+    padding: 20px;
+    text-align: center;
+}
+.second-section-landingpage-part1-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 26px;
+    font-weight: 400;
+}
+.second-section-landingpage-part1-para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #aaaaaa;
+    font-size: 20px;
+}
+.second-section-landingpage-part2{
+    padding: 10px;
+}
+.second-section-landingpage-part2-img{
+    width: 100%;
+    height: 100%;
+    padding: 70px;
+}
+.second-section-landingpage-part2-content-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+.second-section-landingpage-part2-content-para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: #aeaeae;
+}
+.second-section-landingpage-part2-content{
+    padding: 40px;
+   
+}
+.third-section-landingpage{
+    background-color: #ecffff;
+    padding: 90px;
+    text-align: center;
+}
+.third-section-landingpage-heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.third-section-landingpage-card{
+    padding: 10px;
+}
+.third-section-landingpage-img{
+    width: 100%;
+    height: 100%;
+    padding: 27px;
+}
+.third-section-landingpage-card-heading{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.third-section-landingpage-card-para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    color: #aaaaaa;
+}
