@@ -159,3 +159,100 @@ span{
     font-size: 14px;
     color: #aaaaaa;
 }
+.img-product{
+    width: 100%;
+    height: 100%;
+}
+.img-person{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+    margin-top: -66px;
+}
+.card1{
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin-top: 44px;
+    border-radius: 10px;
+}
+.fourth-section{
+    background-color: #c7ecf4;
+    text-align: center;
+    padding: 63px;
+}
+.inner-card-content{
+    padding: 10px;
+}
+@media screen and (max-width: 550px){
+    .first-section-landingpage-content {
+        padding: 20px;
+        padding-top: 0px;
+    }
+    .first-section-landingpage-content-btn {
+        background-color: rgb(26, 233, 248);
+        color: white;
+        font-family: monospace;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-style: solid;
+        border-width: 0px;
+        border-radius: 5px;
+    }
+    .second-section-landingpage-part2-img {
+        width: 100%;
+        height: 100%;
+        padding: 12px;
+    }
+    .second-section-landingpage-part2-content {
+        padding: 13px;
+    }
+    .second-section-landingpage {
+        padding: 10px;
+        padding-top: 31px;
+    }
+    .third-section-landingpage {
+        background-color: #ecffff;
+        padding: 20px;
+        text-align: center;
+    }
+    .third-section-landingpage-img {
+        width: 50%;
+        height: 50%;
+        padding: 10px;
+    }
+    .fourth-section {
+        background-color: #c7ecf4;
+        text-align: center;
+        padding: 6px;
+    }
+    
+    .second-section-landingpage-part1-heading {
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        font-size: 26px;
+        font-weight: 400;
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .img-person {
+        width: 71px;
+        height: 61px;
+        border-radius: 60px;
+        margin-top: -66px;
+    }
+    .first-section-landingpage-content-heading {
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 26px;
+    }
+    .first-section-landingpage-content-para {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 16px;
+        color: rgb(51, 51, 51);
+        padding: 0px;
+    }    
+}
